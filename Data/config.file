@@ -1,0 +1,8 @@
+ffgecko=webdriver.gecko.driver
+ffgeckopath=D:\\workspace\\LMNproject\\Driver\\geckodriver.exe
+fburl=https://www.facebook.com/
+fbemail=8106496041
+fbpasswrd=8106496041
+fbnavgtnbtn=userNavigationLabel
+
+
