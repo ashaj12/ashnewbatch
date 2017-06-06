@@ -11,7 +11,7 @@ public class Fileuploadautoit {
 		System.setProperty("webdriver.gecko.driver","D:\\workspace\\LMNproject\\Driver\\geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
 		driver.manage().window().maximize();
-		driver.get("file:///C:/Users/Sudarshan/Desktop/fileupload.html");
+		driver.get("file:///C:/Users/Sudarshan/Desktop/asha.html");
 		driver.findElement(By.xpath(".//*[@id='1']")).click();
 		
 		Runtime.getRuntime().exec("C:\\Users\\Sudarshan\\Desktop\\fileupload.exe");
